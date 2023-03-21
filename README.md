@@ -1,2 +1,2 @@
-# Web_Calculator
-Web calculator using advance css and java script
+# Web_calculator
+web calculator using advanced css
